@@ -41,4 +41,4 @@ Unlike traditional methods that rely on filenames or MIME types, this approach p
 
 Enter your file Path
 
-## Thanks for using MagicEYE
+## 🙏 Thanks for using MagicEYE
