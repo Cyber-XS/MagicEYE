@@ -37,7 +37,7 @@ Unlike traditional methods that rely on filenames or MIME types, this approach p
 **Usage of MagicEYE**
 
     chmod +x magiceye.py
-    pthon magiceye.py
+    python magiceye.py
 
 Enter your file Path
 
